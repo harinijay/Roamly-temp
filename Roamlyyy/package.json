@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "sass": "^1.63.6",
+    "styled-components": "^6.0.2",
+    "styled-jsx": "^5.1.2"
+  }
+}
